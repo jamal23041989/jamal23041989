@@ -28,9 +28,11 @@
 
 - :telescope: Learning Web Programming.
 
-- :zap: In my free time, I solve problems on Codewars.org, FreeCodeCamp.org and read tech articles.
+- :zap: In my free time I solve problems on Codewars.org, FreeCodeCamp.org and learn Web programming.
 
 - :mailbox:How to reach me: 
+
+---
 
 
 <!--
