@@ -61,7 +61,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-
+- [Test Post](https://dev.to/jamalk23041989/test-post-47pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
