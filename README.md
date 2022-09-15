@@ -61,6 +61,10 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
+[![codewars](https://www.codewars.com/users/JamK/badges/large)](https://www.codewars.com/users/JamK)   
+
+---
+
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Test Post](https://dev.to/jamalk23041989/test-post-47pg)
