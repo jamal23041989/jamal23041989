@@ -30,7 +30,7 @@
 
 - :telescope: Learning Web Programming.
 
-- :zap: In my free time I solve problems on Codewars.org, FreeCodeCamp.org and learn Web programming.
+- :zap: In my free time I solve problems on Codewars, LeetCode and learn Web programming.
 
 - :mailbox: How to reach me: 
 
