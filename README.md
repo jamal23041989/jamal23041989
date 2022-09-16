@@ -66,6 +66,7 @@
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamal23041989&theme=gotham)](https://github.com/jamal23041989/github-readme-activity-graph)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamal23041989)](https://github.com/jamal23041989/github-readme-stats)
 
 
 ---
