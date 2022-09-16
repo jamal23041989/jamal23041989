@@ -66,18 +66,17 @@
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamal23041989&theme=gotham)](https://github.com/jamal23041989/github-readme-activity-graph)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true)](https://github.com/jamal23041989/github-readme-stats)
-
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true)](https://github.com/jamal23041989/github-readme-stats)
 
 ---
+
 ### :writing_hand: Codewars:
 [![codewars](https://www.codewars.com/users/JamK/badges/large)](https://www.codewars.com/users/JamK)
 
 ---
+
 ### :writing_hand: LeetCode:
-<div align="right">
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
-</div>
 
 ---
 
