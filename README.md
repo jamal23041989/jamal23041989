@@ -60,8 +60,11 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
+### :writing_hand: Codewars:
 
 [![codewars](https://www.codewars.com/users/JamK/badges/large)](https://www.codewars.com/users/JamK)
+
+### :writing_hand: LeetCode:
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
 
