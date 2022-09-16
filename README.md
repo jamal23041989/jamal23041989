@@ -82,6 +82,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+### :fire: GitHub Profile Trophy :
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamal23041989)](https://github.com/jamal23041989/github-profile-trophy)
 
 
