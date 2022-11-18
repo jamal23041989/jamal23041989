@@ -81,11 +81,6 @@
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/jamalk23041989/test-post-47pg)
-<!-- BLOG-POST-LIST:END -->
-
 <!--
 **jamal23041989/jamal23041989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
