@@ -49,6 +49,8 @@
   
   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamal23041989&theme=react-dark)](https://github.com/jamal23041989/github-readme-activity-graph)
   
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamal23041989)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
   
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true)](https://github.com/jamal23041989/github-readme-stats)
