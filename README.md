@@ -47,7 +47,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamal23041989&theme=gotham)](https://github.com/jamal23041989/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamal23041989&theme=dracula)](https://github.com/jamal23041989/github-readme-activity-graph)
+  
+  
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true)](https://github.com/jamal23041989/github-readme-stats)
 
