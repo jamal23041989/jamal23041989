@@ -7,7 +7,7 @@
       <img src="https://komarev.com/ghpvc/?username=jamal23041989&style=flat-square&color=blue" alt=""/>
     </div>
   </div>
-  <div id="header__right" align="left">
+  
       ### :man_technologist: About Me :
 
     - :telescope: Learning Web Programming.
@@ -15,7 +15,7 @@
     - :zap: In my free time I solve problems on Codewars and LeetCode.
 
     - :mailbox: How to reach me: jamalkurbanov23041989@gmail.com
-  </div>
+  
 </div>
 ---
 
