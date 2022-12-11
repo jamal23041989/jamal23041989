@@ -1,22 +1,24 @@
-<div id="header" align="left">
-  <div id="header">
-    <img src="https://media.giphy.com/media/3osxYrhcl17YmhQzu0/giphy.gif" width="100"/>
+<div id="header">
+  <div id="header__left" align="left">
+    <div id="header">
+      <img src="https://media.giphy.com/media/3osxYrhcl17YmhQzu0/giphy.gif" width="100"/>
+    </div>
+    <div>
+      <img src="https://komarev.com/ghpvc/?username=jamal23041989&style=flat-square&color=blue" alt=""/>
+    </div>
   </div>
+  <div id="header__right" align="right">
+      ### :man_technologist: About Me :
 
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=jamal23041989&style=flat-square&color=blue" alt=""/>
+    - :telescope: Learning Web Programming.
+
+    - :zap: In my free time I solve problems on Codewars and LeetCode.
+
+    - :mailbox: How to reach me: jamalkurbanov23041989@gmail.com
   </div>
 </div>
-
 ---
 
-### :man_technologist: About Me :
-
-- :telescope: Learning Web Programming.
-
-- :zap: In my free time I solve problems on Codewars and LeetCode.
-
-- :mailbox: How to reach me: jamalkurbanov23041989@gmail.com
 
 ---
 
