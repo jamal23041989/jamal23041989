@@ -8,13 +8,10 @@
 </div>
 ---
   
-      ### :man_technologist: About Me :
-
-    - :telescope: Learning Web Programming.
-
-    - :zap: In my free time I solve problems on Codewars and LeetCode.
-
-    - :mailbox: How to reach me: jamalkurbanov23041989@gmail.com
+### :man_technologist: About Me :
+- :telescope: Learning Web Programming.
+- :zap: In my free time I solve problems on Codewars and LeetCode.
+- :mailbox: How to reach me: jamalkurbanov23041989@gmail.com
 
 ---
 
