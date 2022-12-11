@@ -15,7 +15,7 @@
 
 - :zap: In my free time I solve problems on Codewars and LeetCode.
 
-- :mailbox: How to reach me: 
+- :mailbox: How to reach me: jamalkurbanov23041989@gmail.com
 
 ---
 
