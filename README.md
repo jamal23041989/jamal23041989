@@ -1,6 +1,4 @@
-
----
-<div id="header" align="right">
+<div id="header" align="center">
   <div>
     <img src="https://media.giphy.com/media/3osxYrhcl17YmhQzu0/giphy.gif" width="100"/>
   </div>
@@ -8,6 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=jamal23041989&style=flat-square&color=blue" alt=""/>
   </div>
  </div>
+---
  
 ### :man_technologist: About Me :
 - :telescope: Learning Web Programming.
