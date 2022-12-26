@@ -32,6 +32,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/101483734/190514749-bc737e3f-f0c0-4c72-9f72-217fb297c502.png" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
 </div>
 
 ---
