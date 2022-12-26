@@ -36,6 +36,23 @@
 </div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
 </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
+</div>
 
 ---
 
