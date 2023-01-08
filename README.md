@@ -12,8 +12,7 @@
 ### :man_technologist: About Me :
 - :telescope: Learning Web Programming.
 - :zap: In my free time I solve problems on Codewars and LeetCode.
-- :mailbox: How to reach me:
-<p dir="auto"><a href="https://vk.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/67f720a634f8791b4858264d5cf2ea50a526c48ff8c00c75656c94b105bc03e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d564b2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d564b" alt="VK" data-canonical-src="https://img.shields.io/badge/-VK-blue?style=flat-square&amp;logo=VK" style="max-width: 100%;"></a>
+- :mailbox: How to reach me:<p dir="auto"><a href="https://vk.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/67f720a634f8791b4858264d5cf2ea50a526c48ff8c00c75656c94b105bc03e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d564b2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d564b" alt="VK" data-canonical-src="https://img.shields.io/badge/-VK-blue?style=flat-square&amp;logo=VK" style="max-width: 100%;"></a>
 <a href="https://t.me/jamalk2323" rel="nofollow"><img src="https://camo.githubusercontent.com/0fecc9b6e60643412ccaa9dfbc66ebb39f921f3b9c3f23530fb4da0c26a18833/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d6231633565323f7374796c653d666c61742d737175617265266c6f676f3d54656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/-Telegram-b1c5e2?style=flat-square&amp;logo=Telegram" style="max-width: 100%;"></a></p>
 
 
