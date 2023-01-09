@@ -58,9 +58,10 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000)](https://git.io/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true)](https://github.com/jamal23041989/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true)](https://github.com/jamal23041989/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jamal23041989&bg_color=252224&color=9e4c98&line=9e4c98&point=2c2a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
