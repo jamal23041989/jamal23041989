@@ -79,14 +79,9 @@
 
 ---
 
-
-<div min-width="100%">
-   <a target="_blank" rel="noopener noreferrer" href="https://media2.giphy.com/media/3o7btTODQcZhN6eLQs/200w.webp?cid=ecf05e47btf82037xl1bqh0mei7rp2fxve678o2xa3hz2r5o&rid=200w.webp&ct=g">
-      <img src="https://media2.giphy.com/media/3o7btTODQcZhN6eLQs/200w.webp?cid=ecf05e47btf82037xl1bqh0mei7rp2fxve678o2xa3hz2r5o&rid=200w.webp&ct=g" alt="snake gif">
-   </a>
+<div>
+   <img src="https://media2.giphy.com/media/3o7btTODQcZhN6eLQs/200w.webp?cid=ecf05e47btf82037xl1bqh0mei7rp2fxve678o2xa3hz2r5o&rid=200w.webp&ct=g" width="100%"/>
 </div>
-
-
 
 
 <!--
