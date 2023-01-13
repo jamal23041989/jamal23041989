@@ -79,6 +79,10 @@
 
 ---
 
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/antisedativ/antisedativ/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/antisedativ/antisedativ/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;"></a></p>
+
+
 <!--
 **jamal23041989/jamal23041989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
