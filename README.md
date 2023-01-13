@@ -53,7 +53,6 @@
 ---
 
 ### :trophy: GitHub Profile Trophy :
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamal23041989&theme=onedark)](https://github.com/jamal23041989/github-profile-trophy)
 
 ---
