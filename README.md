@@ -76,6 +76,11 @@
 ### :writing_hand: LeetCode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
 
+---
+
+<img src="https://github.com/antisedativ/antisedativ/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
+
+
 
 <!--
 **jamal23041989/jamal23041989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
