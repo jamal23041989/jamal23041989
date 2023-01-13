@@ -80,7 +80,7 @@
 ---
 
 <div>
-   <img src="https://media4.giphy.com/media/SvFocn0wNMx0iv2rYz/200w.webp?cid=ecf05e478s5lfyvgnbgz88hvtzwqfeyovxqa1xce9jvoat1p&rid=200w.webp&ct=g" width="100%"/>
+   <img src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/200w.webp?cid=ecf05e474a2lubtsjfq3m0v11wke3k4lqj6lqwx3jxen00as&rid=200w.webp&ct=g" width="100%"/>
 </div>
 
 
