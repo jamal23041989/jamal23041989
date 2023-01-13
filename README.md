@@ -78,7 +78,7 @@
 
 ---
 
-<img src="https://github.com/antisedativ/antisedativ/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
+<img src="https://github.com/antisedativ/antisedativ/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width:"100%">
 
 
 
