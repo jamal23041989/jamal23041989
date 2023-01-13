@@ -77,12 +77,6 @@
 ### :writing_hand: LeetCode:
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
 
----
-
-<div>
-   <img src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/200w.webp?cid=ecf05e474a2lubtsjfq3m0v11wke3k4lqj6lqwx3jxen00as&rid=200w.webp&ct=g" width="100%"/>
-</div>
-
 
 <!--
 **jamal23041989/jamal23041989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
