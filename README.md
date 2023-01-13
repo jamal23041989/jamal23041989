@@ -81,8 +81,8 @@
 
 
 <p dir="auto">
-   <a width="100%" target="_blank" rel="noopener noreferrer" href="https://github.com/antisedativ/antisedativ/blob/output/github-contribution-grid-snake.svg">
-      <img src="https://github.com/antisedativ/antisedativ/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width:100%">
+   <a target="_blank" rel="noopener noreferrer" href="https://github.com/antisedativ/antisedativ/blob/output/github-contribution-grid-snake.svg">
+      <img src="https://github.com/antisedativ/antisedativ/raw/output/github-contribution-grid-snake.svg" alt="snake gif">
    </a>
 </p>
 
