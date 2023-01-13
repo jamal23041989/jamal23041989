@@ -55,6 +55,9 @@
 ### :trophy: GitHub Profile Trophy :
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamal23041989)](https://github.com/jamal23041989/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/github-profile-trophy)
+
+
 ---
 
 ### :fire: My Stats :
