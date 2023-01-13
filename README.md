@@ -5,9 +5,7 @@
 ---
 
 <div id="header" align="center">
-  <div>
     <img src="https://komarev.com/ghpvc/?username=jamal23041989&style=flat-square&color=blue" alt=""/>
-  </div>
 </div>
  
 ---
@@ -53,7 +51,6 @@
 ---
 
 ### :trophy: GitHub Profile Trophy :
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamal23041989&theme=dracula)](https://github.com/jamal23041989/github-profile-trophy)
 
 
