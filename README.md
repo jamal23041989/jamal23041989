@@ -9,7 +9,7 @@
  
 ### :man_technologist: About Me :
 - :telescope: Learning Web Programming.
-- :zap: In my free time I solve problems on Codewars and LeetCode.
+- :zap: In my free time I create pet projects, solve problems on Codewars and LeetCode.
 - :mailbox: How to reach me: 
  <a href="mailto:jamalkurbanov23041989@gmail.com"><img src="https://camo.githubusercontent.com/a8c761056c822bf3e282450650e6c75bec1fb22acff08241e477faf8572b4b7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
  <a href="https://t.me/jamalk2323" rel="nofollow"><img src="https://camo.githubusercontent.com/0fecc9b6e60643412ccaa9dfbc66ebb39f921f3b9c3f23530fb4da0c26a18833/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d6231633565323f7374796c653d666c61742d737175617265266c6f676f3d54656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/-Telegram-b1c5e2?style=flat-square&amp;logo=Telegram" style="max-width: 100%;"></a>
