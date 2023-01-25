@@ -3,7 +3,6 @@
 
 <div id="header" align="center">
     <img src="https://komarev.com/ghpvc/?username=jamal23041989&style=flat-square&color=blue" alt=""/>
-<img src="https://camo.githubusercontent.com/d1165baecaf34e91099473aa7ee7e9e95d678ac637190fa3730c7b75a46dbe69/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f342d4c656166732d436f64653f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/jamal23041989?label=Followers&amp;style=social" style="max-width: 100%;">
 </div>
  
 ---
