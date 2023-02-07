@@ -77,9 +77,7 @@
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f419a73d9b00a0a29996abb9c6d3c288d15df620e12e479553b09426f1caf20/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73686572616164616d7326636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526637573746f6d5f7469746c653d476974687562267468656d653d746f6b796f6e696768742662675f636f6c6f723d302c3030303030302c313330463430266c61796f75743d636f6d7061637426626f726465725f7261646975733d38">
-<img [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000)](https://git.io/streak-stats)
-</a></td>
+<td>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000)](https://git.io/streak-stats)</td>
 <td>My total contributions and the length of my current streak compared to my all-time longest streak.</td>
 </tr>
 <tr>
