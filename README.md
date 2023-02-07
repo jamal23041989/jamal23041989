@@ -70,7 +70,7 @@
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000" alt="Top Langs" data-canonical-src="https://github.com/anuraghazra/github-readme-stats" style="max-width: 100%;"></a></td>
-<td>My most used programming languages for my public GitHub repositories. C, C++, and Python are my most used programming languages.</td>
+<td>My most used programming languages for my public GitHub repositories. JavaScript and Python are my most used programming languages.</td>
 </tr>
 <tr>  
 <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true" alt="Shera Adams's GitHub stats" data-canonical-src="https://github.com/jamal23041989/github-readme-stats" style="max-width: 100%;"></a></td>
