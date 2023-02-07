@@ -63,9 +63,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true)](https://github.com/jamal23041989/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jamal23041989&bg_color=252224&color=9e4c98&line=9e4c98&point=2c2a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ---
 
 <table>
@@ -90,6 +87,8 @@
 </tr>
 </tbody>
 </table>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jamal23041989&bg_color=252224&color=9e4c98&line=9e4c98&point=2c2a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
