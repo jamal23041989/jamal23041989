@@ -76,16 +76,16 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000)](https://git.io/streak-stats)</td>
+<tr>   
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000"><img src="http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000" alt="GitHub Streak" data-canonical-src="https://git.io/streak-stats" style="max-width: 100%;"></a></td>
 <td>My total contributions and the length of my current streak compared to my all-time longest streak.</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000"><img src="http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000" alt="Top Langs" data-canonical-src="https://git.io/streak-stats" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000" alt="Top Langs" data-canonical-src="https://github.com/anuraghazra/github-readme-stats" style="max-width: 100%;"></a></td>
 <td>My most used programming languages for my public GitHub repositories. C, C++, and Python are my most used programming languages.</td>
 </tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fde8afab2fbfdbbd2b27f0417940fe975f8ff5b189eb3d02392e8c5487715f06/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73686572616164616d732673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d746f6b796f6e696768742662675f636f6c6f723d302c3030303030302c313330463430266c61796f75743d636f6d7061637426626f726465725f7261646975733d3130"><img src="https://camo.githubusercontent.com/fde8afab2fbfdbbd2b27f0417940fe975f8ff5b189eb3d02392e8c5487715f06/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73686572616164616d732673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d746f6b796f6e696768742662675f636f6c6f723d302c3030303030302c313330463430266c61796f75743d636f6d7061637426626f726465725f7261646975733d3130" alt="Shera Adams's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=jamal23041989&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=10" style="max-width: 100%;"></a></td>
+<tr>  
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true" alt="Shera Adams's GitHub stats" data-canonical-src="https://github.com/jamal23041989/github-readme-stats" style="max-width: 100%;"></a></td>
 <td>Total stars earned by my repositories, total commits this year, total PR, total issues, and total repositories that I contributed to last year.</td>
 </tr>
 </tbody>
