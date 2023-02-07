@@ -57,10 +57,40 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true)](https://github.com/jamal23041989/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jamal23041989&bg_color=252224&color=9e4c98&line=9e4c98&point=2c2a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+
+<table>
+<thead>
+<tr>
+<th>GitHub Stats</th>
+<th>More information about these GitHub Statistics</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f419a73d9b00a0a29996abb9c6d3c288d15df620e12e479553b09426f1caf20/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73686572616164616d7326636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526637573746f6d5f7469746c653d476974687562267468656d653d746f6b796f6e696768742662675f636f6c6f723d302c3030303030302c313330463430266c61796f75743d636f6d7061637426626f726465725f7261646975733d38">
+<img src="https://camo.githubusercontent.com/3f419a73d9b00a0a29996abb9c6d3c288d15df620e12e479553b09426f1caf20/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73686572616164616d7326636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526637573746f6d5f7469746c653d476974687562267468656d653d746f6b796f6e696768742662675f636f6c6f723d302c3030303030302c313330463430266c61796f75743d636f6d7061637426626f726465725f7261646975733d38" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=jamal23041989&amp;count_private=true&amp;show_icons=true&amp;custom_title=Github&amp;theme=tokyonight&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8" style="max-width: 100%;"></a></td>
+<td>My total contributions and the length of my current streak compared to my all-time longest streak.</td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8c7387add21fe408076f25114119fbee23e461db3f575ce324c54141446a2b7c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686572616164616d7326636f756e745f707269766174653d74727565267468656d653d746f6b796f6e696768742662675f636f6c6f723d302c3030303030302c313330463430266c61796f75743d636f6d7061637426626f726465725f7261646975733d38266c616e67735f636f756e743d323026686964653d7377696674"><img src="https://camo.githubusercontent.com/8c7387add21fe408076f25114119fbee23e461db3f575ce324c54141446a2b7c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73686572616164616d7326636f756e745f707269766174653d74727565267468656d653d746f6b796f6e696768742662675f636f6c6f723d302c3030303030302c313330463430266c61796f75743d636f6d7061637426626f726465725f7261646975733d38266c616e67735f636f756e743d323026686964653d7377696674" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamal23041989&amp;count_private=true&amp;theme=tokyonight&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=8&amp;langs_count=20&amp;hide=swift" style="max-width: 100%;"></a></td>
+<td>My most used programming languages for my public GitHub repositories. C, C++, and Python are my most used programming languages.</td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fde8afab2fbfdbbd2b27f0417940fe975f8ff5b189eb3d02392e8c5487715f06/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73686572616164616d732673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d746f6b796f6e696768742662675f636f6c6f723d302c3030303030302c313330463430266c61796f75743d636f6d7061637426626f726465725f7261646975733d3130"><img src="https://camo.githubusercontent.com/fde8afab2fbfdbbd2b27f0417940fe975f8ff5b189eb3d02392e8c5487715f06/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73686572616164616d732673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d746f6b796f6e696768742662675f636f6c6f723d302c3030303030302c313330463430266c61796f75743d636f6d7061637426626f726465725f7261646975733d3130" alt="Shera Adams's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=jamal23041989&amp;show_icons=true&amp;count_private=true&amp;theme=tokyonight&amp;bg_color=0,000000,130F40&amp;layout=compact&amp;border_radius=10" style="max-width: 100%;"></a></td>
+<td>Total stars earned by my repositories, total commits this year, total PR, total issues, and total repositories that I contributed to last year.</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
