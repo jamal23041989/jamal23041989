@@ -94,8 +94,7 @@
 ---
 
 ### :writing_hand: Codewars:
-[![codewars](https://www.codewars.com/users/JamK/badges/large)](https://www.codewars.com/users/JamK)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
+[![codewars](https://www.codewars.com/users/JamK/badges/large)](https://www.codewars.com/users/JamK)[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
 
 ---
 
