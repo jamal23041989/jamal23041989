@@ -8,7 +8,7 @@
 
 <div>
     <div align="left" width="50%">
-        ### :man_technologist: About Me :
+### :man_technologist: About Me :
         - :telescope: Learning Web Programming.
         - :zap: In my free time I create pet projects, solve problems on Codewars and LeetCode.
         - :mailbox: How to reach me: 
