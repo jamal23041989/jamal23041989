@@ -110,6 +110,53 @@
 <img width="100%" src="https://camo.githubusercontent.com/3c3769a2ae8612480297625e275cb03951c12f3ae00e00491b45c267afea4b4d/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d39302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;section=footer" style="max-width: 100%;">
 
 
+
+
+<table>
+  <thead>
+    <tr>
+      <th>GitHub Stats</th>
+      <th>More information about these GitHub Statistics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a
+          target="_blank"
+          rel="noopener noreferrer nofollow"
+          href="https://github.com/ashutosh00710/github-readme-activity-graph"
+        >
+          <img
+            src="https://github-readme-activity-graph.cyclic.app/graph?username=jamal23041989&bg_color=252224&color=9e4c98&line=9e4c98&point=2c2a2a&area=true&hide_border=true"
+            alt="GitHub Streak"
+            data-canonical-src="https://git.io/streak-stats"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+      <td>My total contributions and the length of my current streak compared to my all-time longest streak.</td>
+    </tr>
+
+    <tr>
+      <td>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/JamK/badges/large"
+          ><img
+            src="https://www.codewars.com/users/JamK"
+            alt="Top Langs"
+            data-canonical-src="https://github.com/anuraghazra/github-readme-stats"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+      <td>
+        My most used programming languages for my public GitHub repositories. JavaScript, TypeScript and Python are my most
+        used programming languages.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **jamal23041989/jamal23041989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
