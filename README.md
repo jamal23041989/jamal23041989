@@ -3,16 +3,6 @@
 <div id="header" align="center">
     <img src="https://komarev.com/ghpvc/?username=jamal23041989&style=flat-square&color=blue" alt=""/>
 </div>
-
-
-<p align="center" dir="auto">
-    <a href="https://github.com/jamal23041989/jamal23041989"><img src="https://camo.githubusercontent.com/d7d4ac26d9b73be10974355cf840859da6105b799507ad9aa92f2053aaa6d359/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7374617475732d7570646174696e672d627269676874677265656e2e737667" data-canonical-src="https://img.shields.io/badge/status-updating-brightgreen.svg" style="max-width: 100%;"></a>
-    <a href="https://github.com/python/cpython"><img src="https://camo.githubusercontent.com/4a4db4e2203e262fcbdb17db9548a4e26dfb1a1c525d48be8ef1750d196ba778/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d332e31302d4646313439332e737667" data-canonical-src="https://img.shields.io/badge/Python-3.10-FF1493.svg" style="max-width: 100%;"></a>
-    <a href="https://github.com/jamal23041989/jamal23041989/graphs/contributors"><img src="https://camo.githubusercontent.com/5f8765e3ea9e2bded70dde6f77ed5429db16514c9f527261f1ebb6029401123b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f424550622f424550623f636f6c6f723d626c7565" data-canonical-src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue" style="max-width: 100%;"></a>
-    <a href="https://github.com/jamal23041989/jamal23041989/stargazers"><img src="https://camo.githubusercontent.com/39b120a8b4a13d2400749ace0d57c040408e4aa53d6c7f0b0036744a98e20709/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f424550622f424550622e7376673f6c6f676f3d676974687562" data-canonical-src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github" style="max-width: 100%;"></a>
-    <a href="https://github.com/jamal23041989/jamal23041989/network/members"><img src="https://camo.githubusercontent.com/b118149629b5c2c4bfa688b6a75746e91c2ebc0cf536484c24989b60bfbb61d2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f424550622f424550622e7376673f636f6c6f723d626c7565266c6f676f3d676974687562" data-canonical-src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&amp;logo=github" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1c6f4f8baa5020eea6f3b9f130a76b078d0930bad0ab50d13880073a31730f00/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d424550622e42455062"><img src="https://camo.githubusercontent.com/1c6f4f8baa5020eea6f3b9f130a76b078d0930bad0ab50d13880073a31730f00/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d424550622e42455062" alt="visitors" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" style="max-width: 100%;"></a>   
-</p>
  
 ---
 
