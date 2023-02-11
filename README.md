@@ -104,8 +104,7 @@
 <table width="100%">
   <thead>
     <tr>
-      <th>GitHub Stats</th>
-      <th>More information about these GitHub Statistics</th>
+      <th>My Stats</th>
     </tr>
   </thead>
   <tbody>
