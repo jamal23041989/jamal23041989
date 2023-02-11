@@ -101,7 +101,7 @@
 
 
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th>GitHub Stats</th>
