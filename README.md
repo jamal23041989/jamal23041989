@@ -103,9 +103,9 @@
 
 <table width="100%">
   <thead>
-   
+    <tr colspan=2>
       <th>My Stats</th>
-    
+    </tr>
   </thead>
   <tbody>
     <tr>
