@@ -98,6 +98,10 @@
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
 
+
+
+<img src="https://media4.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif?cid=790b7611d8aac552f2a6f124e92976b7940f54fda3563e84&rid=giphy.gif&ct=g" alt="snake gif" style="min-width: 100%;">
+
 ---
 
 <img src="https://github.com/antisedativ/antisedativ/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="min-width: 100%;">
