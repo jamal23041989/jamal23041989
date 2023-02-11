@@ -1,8 +1,4 @@
 <img width="100%" src="https://camo.githubusercontent.com/d2db2a98e00e44236180c960d84879e5a080a5c7b400da061a79a16bc9fe6dcf/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;color=gradient" style="max-width: 100%;">
-
-<div id="header" align="center">
-    <img src="https://komarev.com/ghpvc/?username=jamal23041989&style=flat-square&color=blue" alt=""/>
-</div>
  
 ---
 
@@ -13,6 +9,10 @@
  <a href="mailto:jamalkurbanov23041989@gmail.com"><img src="https://camo.githubusercontent.com/a8c761056c822bf3e282450650e6c75bec1fb22acff08241e477faf8572b4b7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d7265643f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-Gmail-red?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
  <a href="https://t.me/jamalk2323" rel="nofollow"><img src="https://camo.githubusercontent.com/0fecc9b6e60643412ccaa9dfbc66ebb39f921f3b9c3f23530fb4da0c26a18833/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d6231633565323f7374796c653d666c61742d737175617265266c6f676f3d54656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/-Telegram-b1c5e2?style=flat-square&amp;logo=Telegram" style="max-width: 100%;"></a>
   <a href="https://vk.com/jamal23041989" rel="nofollow"><img src="https://camo.githubusercontent.com/67f720a634f8791b4858264d5cf2ea50a526c48ff8c00c75656c94b105bc03e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d564b2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d564b" alt="VK" data-canonical-src="https://img.shields.io/badge/-VK-blue?style=flat-square&amp;logo=VK" style="max-width: 100%;"></a>
+  
+<div id="header" align="center">
+    <img src="https://komarev.com/ghpvc/?username=jamal23041989&style=flat-square&color=blue" alt=""/>
+</div>
 
 ---
 
