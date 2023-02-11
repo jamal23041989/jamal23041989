@@ -94,14 +94,7 @@
 ---
 
 ### :writing_hand: Codewars and LeetCode:
-
-[![codewars](https://www.codewars.com/users/JamK/badges/large)](https://www.codewars.com/users/JamK) 
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
-
-
-
-<table width="100%">
+<table style="min-width: 100%">
   <thead>
     <tr>
       <th colspan="2">My Stats</th> 
