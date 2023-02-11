@@ -98,10 +98,45 @@
 [![codewars](https://www.codewars.com/users/JamK/badges/large)](https://www.codewars.com/users/JamK) 
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
-    
-<img src="https://media4.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif?cid=790b7611d8aac552f2a6f124e92976b7940f54fda3563e84&rid=giphy.gif&ct=g" alt="snake gif" style="min-width: 100%;">
 
 
+
+<table>
+  <thead>
+    <tr>
+      <th>GitHub Stats</th>
+      <th>More information about these GitHub Statistics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/JamK"
+          ><img
+            src="https://www.codewars.com/users/JamK/badges/large"
+            alt="GitHub Streak"
+            data-canonical-src="https://git.io/streak-stats"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+      <td>Codewars</td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/jamal23041989/leetcode-stats"
+          ><img
+            src="https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark"
+            alt="Top Langs"
+            data-canonical-src="https://github.com/anuraghazra/github-readme-stats"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+      <td>LeetCode</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
