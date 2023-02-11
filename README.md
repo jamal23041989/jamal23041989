@@ -94,7 +94,7 @@
 ---
 
 ### :writing_hand: Codewars and LeetCode:
-<table style="width: 100%">
+<table align="center">
   <thead>
     <tr>
       <th colspan="2">My Stats</th> 
@@ -112,7 +112,7 @@
           />
         </a>
       </td>
-      <td style="font-size: 20px">My progress in solving problems on the site Codewars</td>
+      <td>My progress in solving problems on the site Codewars</td>
     </tr>
     <tr>
       <td>
