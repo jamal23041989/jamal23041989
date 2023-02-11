@@ -94,7 +94,7 @@
 ---
 
 ### :writing_hand: Codewars and LeetCode:
-<table style="min-width: 100%">
+<table style="width: 100%">
   <thead>
     <tr>
       <th colspan="2">My Stats</th> 
