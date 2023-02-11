@@ -112,7 +112,7 @@
           />
         </a>
       </td>
-      <td>Total number of solved problems Codewars</td>
+      <td style="font-size: 20px">My progress in solving problems on the site Codewars</td>
     </tr>
     <tr>
       <td>
@@ -125,7 +125,7 @@
           />
         </a>
       </td>
-      <td>Total number of solved problems LeetCode</td>
+      <td>My progress in solving problems on the site LeetCode</td>
     </tr>
   </tbody>
 </table>
