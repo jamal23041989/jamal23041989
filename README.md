@@ -95,7 +95,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th colspan="2">My Stats</th> 
+      <th colspan="2">My problem solving progress</th> 
     </tr>
   </thead>
   <tbody>
