@@ -94,13 +94,19 @@
 ---
 
 ### :writing_hand: Codewars and LeetCode:
-[![codewars](https://www.codewars.com/users/JamK/badges/large)](https://www.codewars.com/users/JamK) 
+<div style:"display:flex">
+    <div>
+        [![codewars](https://www.codewars.com/users/JamK/badges/large)](https://www.codewars.com/users/JamK) 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
+        [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark)](https://github.com/jamal23041989/leetcode-stats)
+    </div>
+    <div>      
+        <img src="https://media4.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif?cid=790b7611d8aac552f2a6f124e92976b7940f54fda3563e84&rid=giphy.gif&ct=g" alt="snake gif" style="min-width: 100%;">
+    </div>
+</div>
 
 
 
-<img src="https://media4.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif?cid=790b7611d8aac552f2a6f124e92976b7940f54fda3563e84&rid=giphy.gif&ct=g" alt="snake gif" style="min-width: 100%;">
 
 ---
 
