@@ -120,7 +120,7 @@
           />
         </a>
       </td>
-      <td>Codewars</td>
+      <td>Total number of solved problems Codewars</td>
     </tr>
     <tr>
       <td>
@@ -133,7 +133,7 @@
           />
         </a>
       </td>
-      <td>LeetCode</td>
+      <td>Total number of solved problems LeetCode</td>
     </tr>
   </tbody>
 </table>
