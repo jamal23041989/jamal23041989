@@ -50,9 +50,7 @@
 ---
 
 ### :trophy: GitHub Profile Trophy :
-<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamal23041989&theme=dracula)](https://github.com/jamal23041989/github-profile-trophy)
-</div>
 
 ---
 
