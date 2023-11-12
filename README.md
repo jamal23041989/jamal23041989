@@ -87,7 +87,7 @@
     </tbody>
 </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jamal23041989&bg_color=252224&color=9e4c98&line=9e4c98&point=2c2a2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamal23041989&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
