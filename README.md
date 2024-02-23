@@ -2,7 +2,7 @@
 - :telescope: Learning Programming.
 - :zap: In my free time I create pet projects, solve problems on Codewars and LeetCode.
 - :mailbox: How to reach me: 
- <a href="mailto:jamalkurbanov23041989@gmail.com">Gmail</a>
+ <a href="mailto:jamalkurbanov23041989@gmail.com">Gmail</a>,
  <a href="https://t.me/jamalk2323" rel="nofollow">Telegram</a>
   
 <div id="header" align="center">
