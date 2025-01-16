@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/jamal23041989/leetcode-stats"
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/jamal2323/leetcode-stats"
           ><img
             src="https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark"
             alt="Top Langs"
