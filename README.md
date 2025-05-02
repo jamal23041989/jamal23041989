@@ -106,6 +106,7 @@
     </tr>
   </tbody>
 </table>
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 <!--
 **jamal23041989/jamal23041989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
