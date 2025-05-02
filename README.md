@@ -69,44 +69,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamal23041989&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-### :writing_hand: Codewars and LeetCode:
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="2">My problem solving progress</th> 
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/JamK"
-          ><img
-            src="https://www.codewars.com/users/JamK/badges/large"
-            alt="GitHub Streak"
-            data-canonical-src="https://git.io/streak-stats"
-            style="max-width: 100%"
-          />
-        </a>
-      </td>
-      <td>My progress in solving problems on the site Codewars</td>
-    </tr>
-    <tr>
-      <td>
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://leetcard.jacoblin.cool/jamal2323"
-          ><img
-            src="https://leetcard.jacoblin.cool/jamal2323&theme=dark"
-            alt="Top Langs"
-            data-canonical-src="https://github.com/anuraghazra/github-readme-stats"
-            style="max-width: 100%"
-          />
-        </a>
-      </td>
-      <td>My progress in solving problems on the site LeetCode</td>
-    </tr>
-  </tbody>
-</table>
-
 <!--
 **jamal23041989/jamal23041989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
