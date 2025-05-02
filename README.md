@@ -95,7 +95,7 @@
       <td>
         <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/jamal2323/leetcode-stats"
           ><img
-            src="https://leetcode-stats-six.vercel.app/api?username=jamal23041989&theme=dark"
+            src="https://leetcode-stats-six.vercel.app/api?username=jamal2323&theme=dark"
             alt="Top Langs"
             data-canonical-src="https://github.com/anuraghazra/github-readme-stats"
             style="max-width: 100%"
