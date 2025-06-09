@@ -9,33 +9,6 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>Languages and Tools</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>   
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>  
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
----
-
 ### :trophy: GitHub Profile Trophy :
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamal23041989&theme=dracula)](https://github.com/jamal23041989/github-profile-trophy)
 
