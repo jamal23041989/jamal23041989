@@ -65,8 +65,6 @@
     </tbody>
 </table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamal23041989&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 <!--
 **jamal23041989/jamal23041989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
