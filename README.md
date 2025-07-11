@@ -12,41 +12,6 @@
 ### :trophy: GitHub Profile Trophy :
 [![trophy](https://github-profile-trophy.vercel.app/?username=jamal23041989&theme=dracula)](https://github.com/jamal23041989/github-profile-trophy)
 
----
-
-<table>
-    <thead>
-        <tr>
-            <th>GitHub Stats</th>
-            <th>More information about these GitHub Statistics</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>   
-            <td>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000"><img src="http://github-readme-streak-stats.herokuapp.com?user=jamal23041989&theme=dark&background=000000" alt="GitHub Streak" data-canonical-src="https://git.io/streak-stats" style="max-width: 100%;">
-                </a>
-            </td>
-            <td>My total contributions and the length of my current streak compared to my all-time longest streak.</td>
-        </tr>
-        <tr>
-            <td>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamal23041989&layout=compact&theme=dark&background=000000" alt="Top Langs" data-canonical-src="https://github.com/anuraghazra/github-readme-stats" style="max-width: 100%;">
-                </a>
-            </td>
-            <td>My most used programming languages for my public GitHub repositories.</td>
-        </tr>
-        <tr>  
-            <td>
-                <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamal23041989&theme=merko&show_icons=true" alt="Shera Adams's GitHub stats" data-canonical-src="https://github.com/jamal23041989/github-readme-stats" style="max-width: 100%;">
-                </a>
-            </td>
-            <td>Total stars earned by my repositories, total commits this year, total PR, total issues, and total repositories that I contributed to last year.
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 <!--
 **jamal23041989/jamal23041989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
