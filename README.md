@@ -9,9 +9,6 @@
 
 ---
 
-### :trophy: GitHub Profile Trophy :
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamal23041989&theme=dracula)](https://github.com/jamal23041989/github-profile-trophy)
-
 <!--
 **jamal23041989/jamal23041989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
